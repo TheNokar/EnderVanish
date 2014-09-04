@@ -2,3 +2,7 @@ name: EnderVanish
 author: [TheNokar]
 main: net.plommer.EnderVanish.EnderVanish
 version: 1.0.0
+commands:
+    vanish:
+        description: Vanish command.
+        aliases: [v,van]
